@@ -8,3 +8,5 @@ Dies ist mein Inhalt.
 	* d
 As Grace Hopper said:
 > I’ve always been more interested
+
+<img src="https://pixabay.com/de/vectors/avatar-schnabel-schwarz-niedlich-1295429/"/>
