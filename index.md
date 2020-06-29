@@ -9,4 +9,4 @@ Dies ist mein Inhalt.
 As Grace Hopper said:
 > I’ve always been more interested
 
-<img src="https://pixabay.com/de/vectors/avatar-schnabel-schwarz-niedlich-1295429/"/>
+<img src="https://images.freeimages.com/images/large-previews/f7e/head-1428385.jpg"/>
